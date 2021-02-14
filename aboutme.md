@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: YongKi Hong
 subtitle: Ph.D. Candidate in Economics, University of California, Los Angeles
 ---
