@@ -16,7 +16,7 @@ author_profile: true
 
 The papers are available on request.
 
-### Related-Party Trades in Vertical Integration (Job Market Paper)
+### [Related-Party Trades in Vertical Integration](https://www.dropbox.com/s/k73xlgquec0tn0h/Hong_Draft.pdf?raw=1) (Job Market Paper)
 
 Despite the importance of vertical trade in theories of the firm, an empirical literature using proxy-measures has documented little such trade. I revisit this conclusion using economy-wide firm-level data from South Korea, where related-party trades are directly observable. I show that the true prevalence and volume of intra-party trade is much higher than previous measures indicate. Past proxies, which rely heavily on economy-wide input-output tables, dramatically underestimate related-party trade, capturing only 17.6% of related parties that trade and 32.6% of their sales volume. Using supervised machine-learning, I propose alternatives to relying solely on input-output tables to infer trade.
 
