@@ -10,7 +10,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-A summary of teaching evaluations are [here](https://www.dropbox.com/s/o1b0o77nz06a8rb/Hong_Teaching_Eval.pdf?raw=1). 
+* A summary of teaching evaluations are [here](https://www.dropbox.com/s/o1b0o77nz06a8rb/Hong_Teaching_Eval.pdf?raw=1). 
+* Examples of Mid-semester Evaluation that I Used in Remote Teachings: [Fall '21](https://www.dropbox.com/s/02qbtcl0x8kafrv/2021_Fall_Feedback%20for%20TA.pdf?raw=1), [Spring '21](https://www.dropbox.com/s/wfi0n0hqc4ha3b9/2021_Spring_Feedback%20for%20TA.pdf?raw=1), [Fall '20](https://www.dropbox.com/s/byq4rkqp6fpqegp/2020_Fall_Feedback%20for%20TA.pdf?raw=1), [Spring '20](https://www.dropbox.com/s/sg22i36599oqhub/2020_Spring_Feedback%20for%20TA.pdf?raw=1)
 
 The complete list of courses taught and teaching evaluations are available below: 
 
