@@ -6,4 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the University of California, Los Angeles. My work is in the intersection of trade and industrial organization, and I focus on intra-firm trades and incentives within vertical integration. I am on the job market and will be available for interviews at the ASSA 2022 Virtual Annual Meeting, Jan 7-9, 2022.
+Hello! 
+
+I am a Ph.D. candidate in Economics at the University of California, Los Angeles. 
+
+My work is in the intersection of international trade and industrial organization, and I focus on intra-firm transactions and incentives within integrated networks of firms. I am on the job market in academic year 2021-2022, and will be available for interviews at the EEA and ASSA 2022 Virtual Annual Meetings. 
