@@ -12,4 +12,4 @@ I am a Ph.D. candidate in Economics at the University of California, Los Angeles
 
 My work is in the intersection of international trade and industrial organization, and I focus on intra-firm transactions and incentives within integrated networks of firms. 
 
-I am on the job market in academic year 2021-2022, and will be available for interviews at the EEA and ASSA Virtual Meetings.
+I am excited to join Korea Institute of Public Finance (KIPF) as an Associate Research Fellow in August 2022. 
