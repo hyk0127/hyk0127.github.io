@@ -8,8 +8,8 @@ redirect_from:
 
 Hello! 
 
-I am a Ph.D. candidate in Economics at the University of California, Los Angeles. 
+I am joining the Korea Institute of Public Finance (KIPF) as an Associate Research Fellow in August 2022. I received my Ph.D. in Economics from the University of California, Los Angeles in 2022. 
 
-My work is in the intersection of international trade and industrial organization, and I focus on intra-firm transactions and incentives within integrated networks of firms. 
+My research interests are in the intersection of international trade and industrial organization. Specifically, I focus on intra-firm transactions and incentives within ownership networks of firms. 
 
-I am excited to join Korea Institute of Public Finance (KIPF) as an Associate Research Fellow in August 2022. 
+
