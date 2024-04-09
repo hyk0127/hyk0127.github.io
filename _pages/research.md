@@ -38,4 +38,4 @@ A large literature has documented a seeming inefficiency in trade credit practic
 
 이환웅·고창수·홍용기(2023), 지역노동수요충격이 지역경제 및 재정에 끼친 영향, KIPF 연구보고서
 
-홍용기·김정환(2024), 기업 소유·지배구조를 고려한 기업지원정책 개선방안 연구, KIPF 연구보고서 (진행중)
+홍용기·김정환(2024), 기업 소유·지배구조를 고려한 기업지원정책 개선방안 연구, KIPF 연구보고서 (진행 중)
