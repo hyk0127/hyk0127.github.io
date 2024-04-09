@@ -33,5 +33,7 @@ A large literature has documented a seeming inefficiency in trade credit practic
 ## Policy reports (in Korean)
 
 기업집단 내부거래의 한계기업 지원양상 분석과 정책시사점, 2023
+
 기업투자에 대한 조세지원제도의 효과성 연구(연구책임자: 김빛마로, 공동연구자: 홍병진), 2023
+
 지역노동수요충격이 지역경제 및 재정에 끼친 영향(연구책임자: 이환웅, 공동연구자: 고창수), 2023
