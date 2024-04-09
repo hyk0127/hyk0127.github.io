@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Working Papers
+## Working Papers
 
 ### [Related-Party Trades in Vertical Integration](https://www.dropbox.com/s/qi2nyc90av0op15/Hong_RPTVI_230412.pdf?raw=1) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3983336)]
 
@@ -31,3 +31,7 @@ This paper provides the first empirical evidence that intra-business group capit
 A large literature has documented a seeming inefficiency in trade credit practices: smaller firms provide credit to their larger trade partners that have lower external financing costs. This paper presents empirical evidence supporting the hypothesis that larger firms utilize trade credit as a contract enforcement device. By utilizing a novel firm-level data on related-party trades in Korea, I show that in trades where one side of the buyer-supplier relationship completely controls the other, financing cost prevails as the determinant of trade credit provision. As the degree of ownership decreases, contract enforcement concerns become stronger: smaller firms, as well as firms in countries with weaker enforcement or in more relationship-specific industries provide trade credit.
 
 ## Policy reports (in Korean)
+
+기업집단 내부거래의 한계기업 지원양상 분석과 정책시사점, 2023
+기업투자에 대한 조세지원제도의 효과성 연구(연구책임자: 김빛마로, 공동연구자: 홍병진), 2023
+지역노동수요충격이 지역경제 및 재정에 끼친 영향(연구책임자: 이환웅, 공동연구자: 고창수), 2023
