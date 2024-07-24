@@ -7,7 +7,7 @@ redirect_from:
 ---
 Welcome!
 
-I am an Associate Fellow at the Korea Institute of Public Finance (KIPF). 
+I am an Associate Fellow at the Korea Institute of Finance (KIF). 
 
 My research interests are in the intersection of industrial organization and corporate finance. 
 Specifically, I focus on intra-firm transactions and incentives within ownership networks of firms. 
