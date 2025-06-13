@@ -10,6 +10,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+* 이탤릭체로 표기된 공저자는 제1저자를 의미. 
+
 ## 한국금융연구원(KIF)
 
 ### 이슈리포트
@@ -25,7 +27,7 @@ author_profile: true
 
 ### 연구보고서
         
-* 기업 소유$\cdot$지배구조를 고려한 기업지원정책 개선방안 연구 (발간예정), KIPF 연구보고서 (2024)
+* 기업 소유$\cdot$지배구조를 고려한 기업지원정책 개선방안 연구 (발간예정, 김정환 공저), KIPF 연구보고서 (2024)
 * [기업투자에 대한 조세지원제도의 효과성 연구 (*김빛마로*, 홍병진 공저), KIPF 연구보고서 23-02 (2023)](https://www.kipf.re.kr/viewer/default/doc.html?fn=FILE_000000029614Dj0_0&rs=/viewer/result/kiPublish/202312///)
 * [기업집단 내부거래의 한계기업 지원양상 분석과 정책시사점, KIPF 기획과제 23-02 (2023)](https://www.kipf.re.kr/viewer/default/doc.html?fn=FILE_000000029478Zt5_1&rs=/viewer/result/kiPublish/202312///)
 * [지역노동수요충격이 지역 경제 및 재정에 끼친 영향 (*이환웅*, 고창수 공저), KIPF 연구보고서 23-15 (2023)](https://www.kipf.re.kr/viewer/default/doc.html?fn=FILE_000000029637Nq3_0&rs=/viewer/result/kiPublish/202312///)
