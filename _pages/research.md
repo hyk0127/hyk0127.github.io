@@ -22,7 +22,7 @@ Despite the importance of vertical trade in theories of the firm, an empirical l
 
 ### [It Takes a Village: How Business Groups Help Out Member Firms in Distress](https://www.dropbox.com/scl/fi/wo6ok5jubi0bsms3oozsa/Hong_village_web.pdf?rlkey=3suz3ypl59bmbb9q9z4f7woj2&raw=1)
 
-*Best paper award, Joint conference of the Allied Korea Finance Associations* 
+*Best paper award, Joint conference of the Allied Korea Finance Associations 2024* 
 
 This paper provides the first empirical evidence that intra-business group capital markets support the survival of `zombie' member firms, using a novel dataset of detailed related-party transactions from Korea. Group-affiliated zombie firms show significantly stronger survival rates but worse recovery rates from zombie status, signaling that selection into groups is not the main driver of better survival. I show that while a group-affiliated firm's external debts shrink rapidly following the formalization of its zombie status, internal debts remain at their peak level reached at zombification for an extended period. The same difference is documented for group-affiliated firms nearing closure. Such life-sustaining internal debts arise mostly from parent firms, while debts from subsidiaries or weakly connected related parties behave more similarly to external debts. 
 
