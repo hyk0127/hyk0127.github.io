@@ -30,12 +30,3 @@ This paper provides the first empirical evidence that intra-business group capit
 
 A large literature has documented a seeming inefficiency in trade credit practices: smaller firms provide credit to their larger trade partners that have lower external financing costs. This paper presents empirical evidence supporting the hypothesis that larger firms utilize trade credit as a contract enforcement device. By utilizing a novel firm-level data on related-party trades in Korea, I show that in trades where one side of the buyer-supplier relationship completely controls the other, financing cost prevails as the determinant of trade credit provision. As the degree of ownership decreases, contract enforcement concerns become stronger: smaller firms, as well as firms in countries with weaker enforcement or in more relationship-specific industries provide trade credit.
 
-## Policy Research Reports (in Korean)
-
-홍용기 (2023), 기업집단 내부거래의 한계기업 지원양상 분석과 정책시사점, KIPF 기획과제
-
-김빛마로·홍병진·홍용기(2023), 기업투자에 대한 조세지원제도의 효과성 연구, KIPF 연구보고서
-
-이환웅·고창수·홍용기(2023), 지역노동수요충격이 지역경제 및 재정에 끼친 영향, KIPF 연구보고서
-
-홍용기·김정환(2024), 기업 소유·지배구조를 고려한 기업지원정책 개선방안 연구, KIPF 연구보고서 (진행 중)
