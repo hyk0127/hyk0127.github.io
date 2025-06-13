@@ -226,14 +226,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks
+  # _policy
   - scope:
       path: ""
-      type: talks
+      type: policy
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
